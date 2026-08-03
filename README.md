@@ -1,5 +1,5 @@
 # [LetsDefend - Windows Registry](https://app.letsdefend.io/challenge/windows-registry)
-Created: 24/03/2025 20:21
+Created: 03/08/2026 20:21
 Last Updated: 22/04/2025 20:15
 * * *
 As a cybersecurity analyst, you've been given an image containing all the registry hives from one of our employee’s machines. Your task is to thoroughly examine the provided artifacts and respond to a series of questions based on your analysis.
