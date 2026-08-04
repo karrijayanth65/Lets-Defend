@@ -3,7 +3,7 @@ Created: 03/08/2026 20:21
 * * 
 As a cybersecurity analyst, you've been given an image containing all the registry hives from one of our employee’s machines. Your task is to thoroughly examine the provided artifacts and respond to a series of questions based on your analysis.
 
-* * *
+* * 
 ## Start Investigation
 ![b6de09721eae0100f683b670559a19fa.png](/resources/b6de09721eae0100f683b670559a19fa.png)
 
